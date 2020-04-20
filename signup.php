@@ -22,6 +22,7 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
         // if query is successfull , go to thank you page
         if($mysqli->query($sql)==true){
           $_SESSION['message']="Registration successful!";
+          $_SESSION['username']=$compname;
           header("location:thankyou.php");
         }
        
