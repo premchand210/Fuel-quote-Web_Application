@@ -1,5 +1,5 @@
 # SD-spring-2020
-This repository contains code and details about our software design spring 2020 project.
+This repository contains code and details about my website on fuel-quote.
 The login page is index.php
 Registration page is signupEditing.php
 If the registration is successful, it directs us to thankyou.php page.
