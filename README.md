@@ -1,4 +1,4 @@
-# SD-spring-2020
+# Web Application
 This repository contains code and details about my Web Application on fuel-quote.
 The login page is index.php
 Registration page is signupEditing.php
